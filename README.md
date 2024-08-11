@@ -1,7 +1,7 @@
 Hi 👋 My name is Max
 ====================
 
-I'm Motivated specialist aspiring to develop in IT.
+Specialist aspiring to develop in IT.
 
 * 🌍  I'm based in Russia, Vladivostok
 * ✉️  You can contact me at [maximais10@gmail.com](mailto:maximais10@gmail.com)
